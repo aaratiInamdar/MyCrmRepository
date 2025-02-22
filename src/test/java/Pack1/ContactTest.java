@@ -23,6 +23,6 @@ public class ContactTest {
 	@Test
 	public void updateContactTest()
 	{
-		System.out.println("execute createContactTest");
+		System.out.println("execute updateContactTest");
 	}
 }
