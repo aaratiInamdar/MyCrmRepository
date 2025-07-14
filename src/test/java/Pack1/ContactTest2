@@ -1,0 +1,9 @@
+ import org.testng.annotations.Test;
+class Sample 
+{
+@Test
+public void simpleTest()
+{
+System.out.println("Added extra class");
+}
+}
