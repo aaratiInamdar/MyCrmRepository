@@ -1,4 +1,6 @@
- import org.testng.annotations.Test;
+package Pack1;
+
+import org.testng.annotations.Test;
 class Sample 
 {
 @Test
