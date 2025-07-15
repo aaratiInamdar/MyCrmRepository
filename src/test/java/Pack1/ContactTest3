@@ -8,3 +8,4 @@ public class ContactTest {
 		System.out.println("Good");
 		System.out.println("Morning");	
 	}
+}
