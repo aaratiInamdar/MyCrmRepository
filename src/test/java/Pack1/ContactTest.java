@@ -25,4 +25,14 @@ public class ContactTest {
 	{
 		System.out.println("execute updateContactTest");
 	}
+
+
+	@Test
+	public void updateContactTest2()
+	{
+		System.out.println("updated framework");
+		System.out.println("updated framework 2");
+	}
+
+	
 }
