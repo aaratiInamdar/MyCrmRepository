@@ -15,7 +15,5 @@ public class OrgTest {
 	@Test
 	public void updateOrgTest()
 	{
-		System.out.println("execute createOrgTest");
-		System.out.println("execute createOrgTest2");
 	}
 }
