@@ -6,5 +6,6 @@ public class Akshay {
 	@Test
 public void demo() {
 	System.out.println("hello");
+	System.out.println("bye");
 }
 }
