@@ -10,5 +10,7 @@ public void print()
 	System.out.println("demo1");
 	System.out.println("demo3");
 	System.out.println("demo5");
+	System.out.println("hy");
+	System.out.println("abcd");
 }
 }
