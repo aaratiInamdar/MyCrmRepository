@@ -8,5 +8,6 @@ public class Class1
 public void test1()
 {
 	System.out.println("class1");
+	System.out.println("class2");
 }
 }
