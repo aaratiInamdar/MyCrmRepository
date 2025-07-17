@@ -7,5 +7,6 @@ public class Akshay {
 public void demo() {
 	System.out.println("hello");
 	System.out.println("bye");
+	System.out.println("hello");
 }
 }
